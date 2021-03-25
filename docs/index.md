@@ -3,7 +3,7 @@ layout: cv
 title: Samuel Foote's Resume
 ---
 # Samuel Foote
-Resume for CSE250
+Practice Resume
 
 <div id="webaddress">
 <a href="foo15001@byui.edu">datascience@byui.edu</a>
