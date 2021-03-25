@@ -3,12 +3,8 @@ layout: cv
 title: Samuel Foote's Resume
 ---
 # Samuel Foote
-<<<<<<< HEAD
 Resume for CSE250
 Likes turtles
-=======
-Practice Resume
->>>>>>> cfca261073669e26c521da880948e32f94c63111
 
 <div id="webaddress">
 <a href="foo15001@byui.edu">datascience@byui.edu</a>
