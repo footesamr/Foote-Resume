@@ -35,42 +35,24 @@ __CBIZ MHM__, Bakersfield, CA
 - Traced client's financial accounts and compiled summaries for use by managers and partners.
 - Validated tax returns and court documents before use by managers and partners in court. 
 
-### Data Science Lead
+`August 2019 - September 2019`
+__Connor Group__, Reno, NV
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Prepared various tax forms for several entities.
+- Worked with the Director of Tax in planning tax effects for various investments.
+- Prepared journal entries and monthly bank reconciliations.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Administrative Assistant
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`October 2019 - April 2020`
+__Brigham Young University-Idaho__, Accounting Department
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Created Excel workbook summarizing CPA requirements by state.
+- Worked with accounting department chair to discuss and carry out tasks.
 
 ## Service and Work History
 
-`2025-2027`
+`January 2020 - April 2020`
 __Accounting Tutor__, Brigham Young University-Idaho
 
 
