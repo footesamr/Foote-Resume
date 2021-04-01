@@ -20,18 +20,20 @@ Likes turtles
 `2018-2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.8 Major GPA
+- B.S. Degree in Accounting with Data Science Cluster
+- 3.86 Major GPA
+- 3.84 Overall GPA
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2020 - September 2020`
+__CBIZ MHM__, Bakersfield, CA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Created analyses of client's source documents for use in court hearings.
+- Traced client's financial accounts and compiled summaries for use by managers and partners.
+- Validated tax returns and court documents before use by managers and partners in court. 
 
 ### Data Science Lead
 
@@ -69,11 +71,11 @@ __Pinnacle Management Group__,
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Accounting Tutor__, Brigham Young University-Idaho
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2016-2018`
+__Service Missionary__, Columbus, Ohio
 
 
 
