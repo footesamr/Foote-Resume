@@ -16,8 +16,8 @@ Resume for CSE250
 
 ## Education
 
-`2018-2021`
-__Brigham Young University - Idaho__, Rexburg, ID
+`2015-2021`
+__Brigham Young University - Idaho,__ Rexburg, Idaho
 
 - B.S. Degree in Accounting with Data Science Cluster
 - 3.86 Major GPA
@@ -28,23 +28,23 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Internships
 
 `May 2020 - September 2020`
-__CBIZ MHM__, Bakersfield, CA
+__CBIZ MHM,__ Bakersfield, California
 
 - Created analyses of client's source documents for use in court hearings.
 - Traced client's financial accounts and compiled summaries for use by managers and partners.
 - Validated tax returns and court documents before use by managers and partners in court. 
 
 `August 2019 - September 2019`
-__Connor Group__, Reno, NV
+__Connor Group,__ Reno, Nevada
 
 - Prepared various tax forms for several entities.
 - Worked with the Director of Tax in planning tax effects for various investments.
-- Prepared journal entries and monthly bank reconciliations.
+- Prepared journal entries and monthly bank reconciliations, saving thousands of dollars.
 
 ### Administrative Assistant
 
 `October 2019 - April 2020`
-__Brigham Young University-Idaho__, Accounting Department
+__Brigham Young University-Idaho,__ Accounting Department
 
 - Created Excel workbook summarizing CPA requirements by state.
 - Worked with accounting department chair to discuss and carry out tasks.
@@ -52,11 +52,11 @@ __Brigham Young University-Idaho__, Accounting Department
 ## Service and Work History
 
 `January 2020 - April 2020`
-__Accounting Tutor__, Brigham Young University-Idaho
+__Accounting Tutor,__ Brigham Young University-Idaho
 
 
 `2016-2018`
-__Service Missionary__, Columbus, Ohio
+__Church Representative and Instructor,__ Columbus, Ohio
 
 
 
